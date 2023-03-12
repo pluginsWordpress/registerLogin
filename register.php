@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Register
-Plugin URI: https://github.com/marouane216
+Plugin URI: https://github.com/pluginsWordpress/registerLogin/blob/main/register.php
 Description: Plugin de register users personnalisé pour WordPress
 Version: 1.0
 Author: Marouane
