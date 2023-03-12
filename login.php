@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Login
-Plugin URI: https://github.com/marouane216
+Plugin URI: https://github.com/pluginsWordpress/registerLogin/blob/main/login.php
 Description: Plugin de login users personnalisé pour WordPress
 Version: 1.0
 Author: Marouane
