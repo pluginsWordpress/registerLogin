@@ -1,0 +1,12 @@
+{
+    "name": "pluginswordpress/registerlogin",
+    "authors": [
+        {
+            "name": "Marouane Bouchettoy",
+            "email": "uanemaro216@gmail.com"
+        }
+    ],
+    "require": {
+        "pluginswordpress/registerlogin": "1.0.0"
+    }
+}
