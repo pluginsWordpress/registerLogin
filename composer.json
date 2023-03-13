@@ -9,5 +9,6 @@
             "homepage": "https://github.com/marouane216",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {}
 }
