@@ -1,7 +1,6 @@
 {
     "name": "pluginswordpress/registerlogin",
     "description": "plugin de register et login pour wordpress",
-    "homepage": "https://github.com/pluginsWordpress/registerLogin",
     "authors": [
         {
             "name": "Marouane Bouchettoy",
