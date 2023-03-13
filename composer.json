@@ -1,6 +1,7 @@
 {
     "name": "pluginswordpress/registerlogin",
     "description": "plugin de register et login pour wordpress",
+    "license": "MIT",
     "authors": [
         {
             "name": "Marouane Bouchettoy",
